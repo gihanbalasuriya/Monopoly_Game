@@ -1,0 +1,36 @@
+E:\学习\Whitireia\GDIT\Semester1\IT7x22 SoftwareDevelopment\Assignment\Assignment-2\MonopolyTest\Monopoly\bin\Debug\Monopoly.exe.config
+E:\学习\Whitireia\GDIT\Semester1\IT7x22 SoftwareDevelopment\Assignment\Assignment-2\MonopolyTest\Monopoly\bin\Debug\Monopoly.exe
+E:\学习\Whitireia\GDIT\Semester1\IT7x22 SoftwareDevelopment\Assignment\Assignment-2\MonopolyTest\Monopoly\bin\Debug\Monopoly.pdb
+E:\学习\Whitireia\GDIT\Semester1\IT7x22 SoftwareDevelopment\Assignment\Assignment-2\MonopolyTest\Monopoly\obj\Debug\Monopoly.exe
+E:\学习\Whitireia\GDIT\Semester1\IT7x22 SoftwareDevelopment\Assignment\Assignment-2\MonopolyTest\Monopoly\obj\Debug\Monopoly.pdb
+E:\学习\Whitireia\GDIT\Semester1\IT7x22 SoftwareDevelopment\Assignment\Assignment-2\MonopolyTest\Monopoly\obj\Debug\Monopoly.csprojResolveAssemblyReference.cache
+E:\Whitireia\IT7x22 -IT7302 - C#\2016\Assessments\Student Submission, Assignment Two\IT7x22_Assignment2_21602704_TaoSun\MonopolyTest\Monopoly\bin\Debug\Monopoly.exe.config
+E:\Whitireia\IT7x22 -IT7302 - C#\2016\Assessments\Student Submission, Assignment Two\IT7x22_Assignment2_21602704_TaoSun\MonopolyTest\Monopoly\obj\Debug\Monopoly.exe
+E:\Whitireia\IT7x22 -IT7302 - C#\2016\Assessments\Student Submission, Assignment Two\IT7x22_Assignment2_21602704_TaoSun\MonopolyTest\Monopoly\obj\Debug\Monopoly.pdb
+E:\Whitireia\IT7x22 -IT7302 - C#\2016\Assessments\Student Submission, Assignment Two\IT7x22_Assignment2_21602704_TaoSun\MonopolyTest\Monopoly\bin\Debug\Monopoly.exe
+E:\Whitireia\IT7x22 -IT7302 - C#\2016\Assessments\Student Submission, Assignment Two\IT7x22_Assignment2_21602704_TaoSun\MonopolyTest\Monopoly\bin\Debug\Monopoly.pdb
+E:\Whitireia\IT7x22 -IT7302 - C#\2016\Assessments\Student Submission, Assignment Two\IT7x22_Assignment2_21602704_TaoSun\MonopolyTest\Monopoly\obj\Debug\Monopoly.csprojResolveAssemblyReference.cache
+E:\__IT7x22 C#\Assessments\IT7x22_Assignment2_21602704_TaoSun\MonopolyTest\Monopoly\bin\Debug\Monopoly.exe.config
+E:\__IT7x22 C#\Assessments\IT7x22_Assignment2_21602704_TaoSun\MonopolyTest\Monopoly\obj\Debug\Monopoly.exe
+E:\__IT7x22 C#\Assessments\IT7x22_Assignment2_21602704_TaoSun\MonopolyTest\Monopoly\obj\Debug\Monopoly.pdb
+E:\__IT7x22 C#\Assessments\IT7x22_Assignment2_21602704_TaoSun\MonopolyTest\Monopoly\bin\Debug\Monopoly.exe
+E:\__IT7x22 C#\Assessments\IT7x22_Assignment2_21602704_TaoSun\MonopolyTest\Monopoly\bin\Debug\Monopoly.pdb
+E:\__IT7x22 C#\Assessments\IT7x22_Assignment2_21602704_TaoSun\MonopolyTest\Monopoly\obj\Debug\Monopoly.csprojResolveAssemblyReference.cache
+E:\__IT7x22 C#\Assessments\Monopoly Game(Template)\Monopoly\bin\Debug\Monopoly.exe.config
+E:\__IT7x22 C#\Assessments\Monopoly Game(Template)\Monopoly\bin\Debug\Monopoly.exe
+E:\__IT7x22 C#\Assessments\Monopoly Game(Template)\Monopoly\bin\Debug\Monopoly.pdb
+E:\__IT7x22 C#\Assessments\Monopoly Game(Template)\Monopoly\obj\Debug\Monopoly.exe
+E:\__IT7x22 C#\Assessments\Monopoly Game(Template)\Monopoly\obj\Debug\Monopoly.pdb
+F:\IT Level 7\Software Development (C#)\Assignment 2\Monopoly Game(Template)\Monopoly\obj\Debug\Monopoly.csprojResolveAssemblyReference.cache
+F:\IT Level 7\Software Development (C#)\Assignment 2\Monopoly Game(Template)\Monopoly\obj\Debug\Monopoly.exe
+F:\IT Level 7\Software Development (C#)\Assignment 2\Monopoly Game(Template)\Monopoly\obj\Debug\Monopoly.pdb
+F:\IT Level 7\Software Development (C#)\Assignment 2\Monopoly Game(Template)\Monopoly\bin\Debug\Monopoly.exe.config
+F:\IT Level 7\Software Development (C#)\Assignment 2\Monopoly Game(Template)\Monopoly\bin\Debug\Monopoly.exe
+F:\IT Level 7\Software Development (C#)\Assignment 2\Monopoly Game(Template)\Monopoly\bin\Debug\Monopoly.pdb
+F:\Pen Back up - 27.10.18\BIT\IT Level 7\Sem 1\Software Development (C#)\Assignment 2\Monopoly Game(Template)\Monopoly\bin\Debug\Monopoly.exe.config
+F:\Pen Back up - 27.10.18\BIT\IT Level 7\Sem 1\Software Development (C#)\Assignment 2\Monopoly Game(Template)\Monopoly\obj\Debug\Monopoly.exe
+F:\Pen Back up - 27.10.18\BIT\IT Level 7\Sem 1\Software Development (C#)\Assignment 2\Monopoly Game(Template)\Monopoly\obj\Debug\Monopoly.pdb
+F:\Pen Back up - 27.10.18\BIT\IT Level 7\Sem 1\Software Development (C#)\Assignment 2\Monopoly Game(Template)\Monopoly\bin\Debug\Monopoly.exe
+F:\Pen Back up - 27.10.18\BIT\IT Level 7\Sem 1\Software Development (C#)\Assignment 2\Monopoly Game(Template)\Monopoly\bin\Debug\Monopoly.pdb
+F:\Pen Back up - 27.10.18\BIT\IT Level 7\Sem 1\Software Development (C#)\Assignment 2\Monopoly Game(Template)\Monopoly\obj\Debug\Monopoly.csprojAssemblyReference.cache
+F:\Pen Back up - 27.10.18\BIT\IT Level 7\Sem 1\Software Development (C#)\Assignment 2\Monopoly Game(Template)\Monopoly\obj\Debug\Monopoly.csproj.CoreCompileInputs.cache
